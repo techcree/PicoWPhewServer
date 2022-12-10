@@ -1,0 +1,41 @@
+@import url("something.css");
+body {
+ font-weight:Bold;
+ color: #123456;    /* Some example CSS */
+ background-color: LavenderBlush;
+ margin:0;
+ padding: 3em 6em;
+ font-family: tahoma, arial, sans-serif;
+ background: url("images/red.png") no-repeat scroll -175px -25px transparent!Important;
+}
+#navigation a {
+ text-decoration: none!important;
+}
+
+/*Clearfix*/
+.clearfix:after { visibility:hidden; display: block; font-size: 0; content: " "; clear: both; height:0 }
+.clearfix { display: inline-block; }
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+
+@media screen and (min-width: 480px) {
+  body {
+    background-color: lightgreen;
+  }
+}
+code {
+ font-family: courier, monospace;
+ font-size: 80%;
+ color: #418A8A;
+}
+h1 {
+ font-size: 2.5em;
+ font-weight:  Normal;
+}
+h2 {
+ font-size: 1.7em;
+}
+
+h1:before, h2:before {
+ content: "::";
+}

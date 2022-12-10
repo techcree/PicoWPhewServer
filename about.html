@@ -1,0 +1,24 @@
+{{render_template('header.html')}}
+    <div class="container bg-light m-3 p-3">
+        <h1>Hello {{name}}</h1>
+        
+        <p>Willkommen auf dem Raspi Pico W Webserver!</p>
+        
+         <p>Auf diesem Webserver sind Links zu folgenden Diensten:</p>
+            <p>&nbsp;</p>
+            <p><strong>(1) Supercomputer UI</strong></p>
+            <p>Die Supercomputer UI* zeigt die drei Raspberry Pi Systeme im Supercomputer Cluster an. Informiert &uuml;ber etwaig n&ouml;tige Updates, den Zustand der CPU und CPU Temperatur, Speicherinformationen und vieles andere. Zudem sind dort die jeweils verf&uuml;gbaren GPIO Schnittstellen aufgef&uuml;hrt mit denen sich bspw. die Bel&uuml;ftung des Systems ein- und ausschalten l&auml;sst (vent), sowie auch die Beleuchtung.</p>
+            <p>&nbsp;</p>
+            <p><strong>(2) Pico W Smart-Home</strong></p>
+            <p>Weitere Pico W* sind mit Relais verbunden. &Uuml;ber diese Smartt-Home Seite k&ouml;nnen die Relais jeweils ein- und ausgeschaltet werden. Diese dienen dazu Verbraucher zu steuern, wie bspw. Lichter, etc.</p>
+            <p>&nbsp;</p>
+            <p><strong>(3) Cuda Printserver</strong></p>
+            <p>Der Cudo Print Server* ist auf dem Supercomputer Semicluster installiert. Die UI zeigt bspw. die verf&uuml;gbaren Druckersysteme und auch den Stand der laufenden Druckauftr&auml;ge.</p>
+            <p>&nbsp;</p>
+            <p><strong>(4) BME680 Sensor UI</strong></p>
+            <p>Auf dem Supercomputer Cluster* ist eine Indoor-Wetterstation installiert. Die Node-Red UI zeigt die Sensordaten, wie relative Luftfeuchtigkeit, Luftdruck, Temperatur und Gas. Die kann nur angezeigtwerden, wenn auf dem Server die Node Red Anwendung gestartet ist. Bei einer Stromunterbrechung startet diese Anwendung nicht automatisch neu.</p>
+            <p>&nbsp;</p>
+            <p>* Alle Dienste sind nur innerhalb des LANs/WLANs verf&uuml;gabr und nicht aus dem Internet allgemein zu erreichen!</p>       
+        
+    </div>
+{{render_template('footer.html')}}

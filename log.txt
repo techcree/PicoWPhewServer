@@ -1,0 +1,240 @@
+2022-11-21 16:30:16 [debug    /  134768] > connecting to wifi network: Voyager
+2022-11-21 16:30:17 [debug    /  144112]   - ip address:  192.168.188.104
+2022-11-21 16:30:17 [info     /  141024] > starting web server on port 80
+2022-11-21 16:30:22 [debug    /  122080] > parsed template: nav.html (took 16 ms)
+2022-11-21 16:30:22 [debug    /  120016] > parsed template: header.html (took 132 ms)
+2022-11-21 16:30:22 [debug    /  114768] > parsed template: footer.html (took 12 ms)
+2022-11-21 16:30:22 [debug    /  112704] > parsed template: /index.html (took 372 ms)
+2022-11-21 16:30:22 [info     /  110768] > GET / (200 OK) [3981ms]
+2022-11-21 16:30:26 [error    /  108800] need more than 0 values to unpack
+2021-01-01 00:00:07 [debug    /  136016] > connecting to wifi network: Voyager
+2021-01-01 00:00:14 [debug    /  134048]   - ip address:  192.168.188.104
+2021-01-01 00:00:14 [info     /  130960] > starting web server on port 80
+2021-01-01 00:00:07 [debug    /  136016] > connecting to wifi network: Voyager
+2021-01-01 00:00:12 [debug    /  134272]   - failed to connect
+2021-01-01 00:00:12 [info     /  131392] > starting web server on port 80
+2022-11-22 16:13:22 [debug    /  133872] > connecting to wifi network: Voyager
+2022-11-22 16:13:27 [debug    /  131904]   - ip address:  192.168.188.104
+2022-11-22 16:13:27 [info     /  128816] > starting web server on port 80
+2022-11-22 16:14:51 [debug    /  128864] > parsed template: nav.html (took 13 ms)
+2022-11-22 16:14:51 [debug    /  126800] > parsed template: header.html (took 205 ms)
+2022-11-22 16:14:51 [debug    /  121456] > parsed template: footer.html (took 10 ms)
+2022-11-22 16:14:51 [debug    /  119392] > parsed template: /index.html (took 476 ms)
+2022-11-22 16:14:51 [info     /  117456] > GET / (200 OK) [774ms]
+2022-11-22 16:14:51 [info     /  110400] > GET /favicon.ico (404 Not Found) [119ms]
+2022-11-22 16:14:56 [error    /  139504] need more than 0 values to unpack
+2022-11-22 16:15:59 [debug    /  135872] > connecting to wifi network: Voyager
+2022-11-22 16:16:00 [debug    /  133904]   - ip address:  192.168.188.104
+2022-11-22 16:16:00 [info     /  130816] > starting web server on port 80
+2022-11-22 16:16:02 [debug    /  131840] > parsed template: nav.html (took 14 ms)
+2022-11-22 16:16:02 [debug    /  129776] > parsed template: header.html (took 157 ms)
+2022-11-22 16:16:03 [debug    /  124432] > parsed template: footer.html (took 10 ms)
+2022-11-22 16:16:03 [debug    /  122368] > parsed template: /index.html (took 453 ms)
+2022-11-22 16:16:03 [info     /  120432] > GET / (200 OK) [777ms]
+2022-11-22 16:16:11 [error    /  118464] need more than 0 values to unpack
+2022-11-22 16:23:12 [debug    /  133904] > connecting to wifi network: SKANTA
+2022-11-22 16:23:13 [debug    /  132160]   - failed to connect
+2022-11-22 16:23:13 [info     /  129280] > starting web server on port 80
+2022-11-22 16:24:25 [debug    /  128576] > parsed template: nav.html (took 14 ms)
+2022-11-22 16:24:25 [debug    /  126512] > parsed template: header.html (took 169 ms)
+2022-11-22 16:24:25 [debug    /  121168] > parsed template: footer.html (took 14 ms)
+2022-11-22 16:24:26 [error    /  119072] need more than 0 values to unpack
+2022-11-22 16:24:26 [debug    /  117120] > parsed template: /index.html (took 561 ms)
+2022-11-22 16:24:26 [info     /  115184] > GET / (200 OK) [734ms]
+2022-11-22 16:24:27 [info     /  135456] > GET /favicon.ico (404 Not Found) [31ms]
+2022-11-22 16:53:06 [debug    /  135792] > connecting to wifi network: SKANTA
+2022-11-22 16:53:08 [debug    /  134048]   - failed to connect
+2022-11-22 16:53:08 [info     /  131168] > starting web server on port 80
+2022-11-22 16:54:05 [debug    /  130768] > parsed template: nav.html (took 15 ms)
+2022-11-22 16:54:05 [debug    /  128704] > parsed template: header.html (took 184 ms)
+2022-11-22 16:54:05 [debug    /  121744] > parsed template: footer.html (took 12 ms)
+2022-11-22 16:54:05 [debug    /  119680] > parsed template: /about.html (took 501 ms)
+2022-11-22 16:54:05 [info     /  117744] > GET /about (200 OK) [673ms]
+2022-11-22 16:54:08 [debug    /  133472] > parsed template: nav.html (took 21 ms)
+2022-11-22 16:54:08 [debug    /  131408] > parsed template: header.html (took 229 ms)
+2022-11-22 16:54:08 [debug    /  126064] > parsed template: footer.html (took 11 ms)
+2022-11-22 16:54:08 [debug    /  124000] > parsed template: /index.html (took 569 ms)
+2022-11-22 16:54:08 [info     /  122064] > GET / (200 OK) [956ms]
+2022-11-22 16:54:20 [debug    /  105120] > parsed template: nav.html (took 15 ms)
+2022-11-22 16:54:20 [debug    /  103056] > parsed template: header.html (took 167 ms)
+2022-11-22 16:54:20 [debug    /  130640] > parsed template: footer.html (took 11 ms)
+2022-11-22 16:54:20 [debug    /  128576] > parsed template: /index.html (took 455 ms)
+2022-11-22 16:54:21 [info     /  126640] > GET / (200 OK) [613ms]
+2022-11-22 16:54:25 [debug    /  109696] > parsed template: nav.html (took 15 ms)
+2022-11-22 16:54:25 [debug    /  107632] > parsed template: header.html (took 159 ms)
+2022-11-22 16:54:25 [debug    /  102288] > parsed template: footer.html (took 12 ms)
+2022-11-22 16:54:25 [debug    /  135856] > parsed template: /index.html (took 455 ms)
+2022-11-22 16:54:25 [info     /  133920] > GET / (200 OK) [613ms]
+2022-11-22 16:54:29 [debug    /  117376] > parsed template: nav.html (took 15 ms)
+2022-11-22 16:54:29 [debug    /  115312] > parsed template: header.html (took 221 ms)
+2022-11-22 16:54:29 [debug    /  109968] > parsed template: footer.html (took 11 ms)
+2022-11-22 16:54:29 [debug    /  107904] > parsed template: /index.html (took 514 ms)
+2022-11-22 16:54:29 [info     /  105968] > GET / (200 OK) [875ms]
+2022-11-22 17:07:31 [debug    /  133824] > connecting to wifi network: SKANTA
+2022-11-22 17:07:33 [debug    /  132080]   - failed to connect
+2022-11-22 17:07:33 [info     /  129200] > starting web server on port 80
+2021-01-01 00:00:09 [debug    /  133792] > connecting to wifi network: SKANTA
+2021-01-01 00:00:10 [debug    /  132048]   - failed to connect
+2021-01-01 00:00:10 [info     /  129168] > starting web server on port 80
+2022-11-22 17:16:37 [debug    /  137536] > connecting to wifi network: SKANTA
+2022-11-22 17:16:38 [debug    /  135792]   - failed to connect
+2022-11-22 17:16:38 [info     /  132912] > starting web server on port 80
+2022-11-22 17:17:40 [debug    /  140640] > connecting to wifi network: SKANTA
+2022-11-22 17:17:41 [debug    /  138896]   - failed to connect
+2022-11-22 17:17:42 [info     /  136016] > starting web server on port 80
+2022-11-22 17:18:58 [debug    /  137440] > connecting to wifi network: SKANTA
+2022-11-22 17:18:59 [debug    /  135696]   - failed to connect
+2022-11-22 17:18:59 [info     /  132816] > starting web server on port 80
+2021-01-01 00:00:09 [debug    /  133792] > connecting to wifi network: SKANTA
+2021-01-01 00:00:10 [debug    /  132048]   - failed to connect
+2021-01-01 00:00:10 [info     /  129168] > starting web server on port 80
+2022-11-22 17:20:08 [debug    /  134144] > connecting to wifi network: SKANTA
+2022-11-22 17:20:09 [debug    /  132400]   - failed to connect
+2022-11-22 17:20:09 [info     /  129520] > starting web server on port 80
+2022-11-22 17:21:04 [debug    /  137168] > connecting to wifi network: SKANTA
+2022-11-22 17:21:05 [debug    /  135424]   - failed to connect
+2022-11-22 17:21:05 [info     /  132544] > starting web server on port 80
+2021-01-01 00:00:09 [debug    /  133792] > connecting to wifi network: SKANTA
+2021-01-01 00:00:10 [debug    /  132048]   - failed to connect
+2021-01-01 00:00:11 [info     /  129168] > starting web server on port 80
+2021-01-01 00:00:10 [debug    /  133792] > connecting to wifi network: SKANTA
+2021-01-01 00:00:11 [debug    /  132048]   - failed to connect
+2021-01-01 00:00:11 [info     /  129168] > starting web server on port 80
+2021-01-01 00:00:10 [debug    /  133792] > connecting to wifi network: SKANTA
+2021-01-01 00:00:11 [debug    /  132048]   - failed to connect
+2021-01-01 00:00:11 [info     /  129168] > starting web server on port 80
+2021-01-01 00:00:10 [debug    /  133792] > connecting to wifi network: SKANTA
+2021-01-01 00:00:11 [debug    /  132048]   - failed to connect
+2021-01-01 00:00:11 [info     /  129168] > starting web server on port 80
+2022-11-22 17:28:01 [debug    /  136048] > connecting to wifi network: SKANTA
+2022-11-22 17:28:02 [debug    /  134304]   - failed to connect
+2022-11-22 17:28:02 [info     /  131424] > starting web server on port 80
+2022-11-22 17:29:40 [debug    /  132704] > connecting to wifi network: SKANTA
+2022-11-22 17:29:41 [debug    /  130960]   - failed to connect
+2022-11-22 17:29:41 [info     /  144208] > starting web server on port 80
+2022-11-22 17:32:28 [debug    /  139216] > connecting to wifi network: SKANTA
+2022-11-22 17:32:29 [debug    /  137472]   - failed to connect
+2022-11-22 17:32:29 [info     /  134592] > starting web server on port 80
+2022-11-22 17:33:08 [debug    /  132656] > connecting to wifi network: SKANTA
+2022-11-22 17:33:09 [debug    /  130912]   - failed to connect
+2022-11-22 17:33:09 [info     /  142704] > starting web server on port 80
+2022-11-22 17:33:46 [debug    /  133856] > connecting to wifi network: SKANTA
+2022-11-22 17:33:47 [debug    /  132112]   - failed to connect
+2022-11-22 17:33:47 [info     /  129232] > starting web server on port 80
+2021-01-01 00:00:09 [debug    /  133792] > connecting to wifi network: SKANTA
+2021-01-01 00:00:10 [debug    /  132048]   - failed to connect
+2021-01-01 00:00:10 [info     /  129168] > starting web server on port 80
+2021-01-01 00:00:09 [debug    /  133792] > connecting to wifi network: SKANTA
+2021-01-01 00:00:10 [debug    /  132048]   - failed to connect
+2021-01-01 00:00:10 [info     /  129168] > starting web server on port 80
+2021-01-01 00:00:09 [debug    /  133792] > connecting to wifi network: SKANTA
+2021-01-01 00:00:10 [debug    /  132048]   - failed to connect
+2021-01-01 00:00:10 [info     /  129168] > starting web server on port 80
+2021-01-01 00:00:10 [debug    /  133792] > connecting to wifi network: SKANTA
+2022-11-22 17:42:52 [debug    /  133840] > connecting to wifi network: SKANTA
+2022-11-22 17:43:23 [debug    /  132096]   - failed to connect
+2022-11-22 17:43:23 [info     /  129216] > starting web server on port 80
+2021-01-01 00:00:10 [debug    /  133792] > connecting to wifi network: SKANTA
+2021-01-01 00:00:11 [debug    /  132048]   - failed to connect
+2021-01-01 00:00:11 [info     /  129168] > starting web server on port 80
+2022-11-22 17:47:48 [debug    /  137520] > connecting to wifi network: SKANTA
+2022-11-22 17:47:49 [debug    /  135776]   - failed to connect
+2022-11-22 17:47:49 [info     /  132896] > starting web server on port 80
+2022-11-22 17:49:32 [debug    /  140528] > connecting to wifi network: SKANTA
+2022-11-22 17:49:33 [debug    /  138784]   - failed to connect
+2022-11-22 17:49:33 [info     /  135904] > starting web server on port 80
+2021-01-01 00:00:10 [debug    /  133792] > connecting to wifi network: SKANTA
+2021-01-01 00:00:11 [debug    /  132048]   - failed to connect
+2021-01-01 00:00:11 [info     /  129168] > starting web server on port 80
+2022-11-22 17:50:58 [debug    /  137616] > connecting to wifi network: SKANTA
+2022-11-22 17:50:59 [debug    /  135872]   - failed to connect
+2022-11-22 17:50:59 [info     /  132992] > starting web server on port 80
+2021-01-01 00:00:10 [debug    /  133792] > connecting to wifi network: SKANTA
+2021-01-01 00:00:11 [debug    /  132048]   - failed to connect
+2021-01-01 00:00:11 [info     /  129168] > starting web server on port 80
+2022-11-22 17:59:17 [debug    /  142048] > connecting to wifi network: SKANTAPico
+2022-11-22 17:59:18 [debug    /  140272]   - failed to connect
+2022-11-22 17:59:18 [info     /  137392] > starting web server on port 80
+2022-11-22 17:59:49 [debug    /  133712] > connecting to wifi network: SKANTAPico
+2022-11-22 17:59:50 [debug    /  131936]   - failed to connect
+2022-11-22 17:59:50 [info     /  129056] > starting web server on port 80
+2022-11-22 18:00:57 [debug    /  135888] > connecting to wifi network: Voyager
+2022-11-22 18:01:02 [debug    /  133920]   - ip address:  192.168.188.104
+2022-11-22 18:01:02 [info     /  130832] > starting web server on port 80
+2022-11-22 18:01:11 [debug    /  132432] > parsed template: nav.html (took 13 ms)
+2022-11-22 18:01:12 [debug    /  130368] > parsed template: header.html (took 202 ms)
+2022-11-22 18:01:12 [debug    /  125120] > parsed template: footer.html (took 9 ms)
+2022-11-22 18:01:12 [debug    /  123056] > parsed template: /index.html (took 460 ms)
+2022-11-22 18:01:12 [info     /  121120] > GET / (200 OK) [862ms]
+2022-11-22 18:01:12 [info     /  114624] > GET /favicon.ico (404 Not Found) [1095ms]
+2021-01-01 00:00:07 [debug    /  135984] > connecting to wifi network: Voyager
+2021-01-01 00:00:12 [debug    /  134240]   - failed to connect
+2021-01-01 00:00:12 [info     /  131360] > starting web server on port 80
+2021-01-01 00:00:07 [debug    /  135984] > connecting to wifi network: Voyager
+2021-01-01 00:00:13 [debug    /  134016]   - ip address:  192.168.188.104
+2021-01-01 00:00:13 [info     /  130928] > starting web server on port 80
+2021-01-01 00:00:15 [debug    /  132304] > parsed template: nav.html (took 12 ms)
+2021-01-01 00:00:15 [debug    /  130240] > parsed template: header.html (took 141 ms)
+2021-01-01 00:00:15 [debug    /  124992] > parsed template: footer.html (took 9 ms)
+2021-01-01 00:00:15 [debug    /  122928] > parsed template: /index.html (took 402 ms)
+2021-01-01 00:00:15 [info     /  120992] > GET / (200 OK) [1238ms]
+2021-01-01 00:00:18 [error    /  119024] need more than 0 values to unpack
+2021-01-01 00:22:37 [debug    /  133824] > parsed template: nav.html (took 12 ms)
+2021-01-01 00:22:37 [debug    /  131760] > parsed template: header.html (took 149 ms)
+2021-01-01 00:22:38 [debug    /  126512] > parsed template: footer.html (took 9 ms)
+2021-01-01 00:22:38 [debug    /  124448] > parsed template: /index.html (took 411 ms)
+2021-01-01 00:22:38 [info     /  122512] > GET / (200 OK) [759ms]
+2021-01-01 00:22:54 [error    /  119984] need more than 0 values to unpack
+2021-01-01 14:22:15 [debug    /  103280] > parsed template: nav.html (took 12 ms)
+2021-01-01 14:22:15 [debug    /  132256] > parsed template: header.html (took 156 ms)
+2021-01-01 14:22:15 [debug    /  127008] > parsed template: footer.html (took 9 ms)
+2021-01-01 14:22:15 [debug    /  124944] > parsed template: /index.html (took 422 ms)
+2021-01-01 14:22:15 [info     /  123008] > GET / (200 OK) [574ms]
+2021-01-01 14:22:16 [info     /  116512] > GET /favicon.ico (404 Not Found) [830ms]
+2021-01-01 14:38:34 [error    /  113376] need more than 0 values to unpack
+2021-01-01 14:38:34 [error    /  111392] need more than 0 values to unpack
+2021-01-01 17:28:07 [debug    /  133488] > parsed template: nav.html (took 12 ms)
+2021-01-01 17:28:07 [debug    /  131424] > parsed template: header.html (took 153 ms)
+2021-01-01 17:28:07 [debug    /  126176] > parsed template: footer.html (took 9 ms)
+2021-01-01 17:28:07 [debug    /  124112] > parsed template: /index.html (took 423 ms)
+2021-01-01 17:28:07 [info     /  122176] > GET / (200 OK) [582ms]
+2021-01-01 17:28:07 [info     /  115680] > GET /favicon.ico (404 Not Found) [839ms]
+2021-01-01 00:00:07 [debug    /  135984] > connecting to wifi network: Voyager
+2021-01-01 00:00:12 [debug    /  134240]   - failed to connect
+2021-01-01 00:00:12 [info     /  131360] > starting web server on port 80
+2021-01-01 00:00:07 [debug    /  135984] > connecting to wifi network: Voyager
+2021-01-01 00:00:13 [debug    /  134016]   - ip address:  192.168.188.104
+2021-01-01 00:00:13 [info     /  130928] > starting web server on port 80
+2021-01-01 00:00:15 [debug    /  131808] > parsed template: nav.html (took 12 ms)
+2021-01-01 00:00:15 [debug    /  129744] > parsed template: header.html (took 156 ms)
+2021-01-01 00:00:15 [debug    /  124496] > parsed template: footer.html (took 9 ms)
+2021-01-01 00:00:15 [debug    /  122432] > parsed template: /index.html (took 442 ms)
+2021-01-01 00:00:15 [info     /  120496] > GET / (200 OK) [901ms]
+2021-01-01 00:00:16 [info     /  114000] > GET /favicon.ico (404 Not Found) [942ms]
+2021-01-01 00:00:39 [error    /  111424] need more than 0 values to unpack
+2021-01-01 00:00:39 [error    /  109440] need more than 0 values to unpack
+2021-01-01 00:07:44 [error    /  106336] need more than 0 values to unpack
+2021-01-01 00:07:44 [error    /  104352] need more than 0 values to unpack
+2021-01-01 01:41:11 [debug    /  121200] > parsed template: nav.html (took 13 ms)
+2021-01-01 01:41:11 [debug    /  119136] > parsed template: header.html (took 143 ms)
+2021-01-01 01:41:11 [debug    /  113888] > parsed template: footer.html (took 9 ms)
+2021-01-01 01:41:12 [debug    /  111824] > parsed template: /index.html (took 464 ms)
+2021-01-01 01:41:12 [info     /  109888] > GET / (200 OK) [602ms]
+2021-01-01 01:42:18 [error    /  106800] need more than 0 values to unpack
+2021-01-01 01:42:18 [error    /  104816] need more than 0 values to unpack
+2021-01-01 00:00:07 [debug    /  135984] > connecting to wifi network: Voyager
+2021-01-01 00:00:12 [debug    /  134240]   - failed to connect
+2021-01-01 00:00:12 [info     /  131360] > starting web server on port 80
+2021-01-01 00:00:07 [debug    /  135984] > connecting to wifi network: Voyager
+2021-01-01 00:00:14 [debug    /  134016]   - ip address:  192.168.188.104
+2021-01-01 00:00:14 [info     /  130928] > starting web server on port 80
+2021-01-01 00:00:15 [debug    /  132736] > parsed template: nav.html (took 13 ms)
+2021-01-01 00:00:15 [debug    /  130672] > parsed template: header.html (took 148 ms)
+2021-01-01 00:00:15 [debug    /  125424] > parsed template: footer.html (took 9 ms)
+2021-01-01 00:00:15 [debug    /  123360] > parsed template: /index.html (took 480 ms)
+2021-01-01 00:00:15 [info     /  121424] > GET / (200 OK) [625ms]
+2021-01-01 00:02:02 [error    /  118304] need more than 0 values to unpack
+2021-01-01 00:02:02 [error    /  116320] need more than 0 values to unpack
+2021-01-01 00:00:07 [debug    /  135984] > connecting to wifi network: Voyager
+2021-01-01 00:00:14 [debug    /  134016]   - ip address:  192.168.188.104
+2021-01-01 00:00:14 [info     /  130928] > starting web server on port 80
