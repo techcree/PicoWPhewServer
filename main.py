@@ -29,7 +29,7 @@ def login_form(request):
         username = request.form.get("username", None)
         password = request.form.get("password", None)
 
-        if username == "admin" and password == "Loon1611":
+        if username == "admin" and password == "Passwort":
             return render_template('/default.html', content = f"<h1>Hallo, {username}</h1>")
         else:
             return render_template('/default.html', content = "Invalid username or password")
